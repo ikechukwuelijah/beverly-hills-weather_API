@@ -7,7 +7,7 @@ from datetime import datetime
 from sqlalchemy import create_engine
 
 # Define the API URL
-api_url = "https://api.openweathermap.org/data/2.5/weather?lat=34.0901&lon=-118.4065&appid=fc284336c861c52e8185c63082114ad5"
+api_url = "https://api.openweathermap.org/data/2.5/weather?lat=34.0901&lon=-118.4065&appid="
 
 # Function to fetch and transform weather data into a DataFrame
 def fetch_weather_data(url):

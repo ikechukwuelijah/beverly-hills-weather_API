@@ -1,3 +1,19 @@
 2025-01-21 10:25:37,303 - INFO - Script started.
 2025-01-21 10:25:37,304 - ERROR - Failed to upload data: name 'df' is not defined
 2025-01-21 10:25:37,305 - INFO - Script ended.
+2025-01-21 10:31:52,057 - INFO - Script started.
+2025-01-21 10:36:34,056 - INFO - Script started.
+2025-01-21 10:36:34,059 - ERROR - Failed to upload data: name 'df' is not defined
+2025-01-21 10:36:34,062 - INFO - Script ended.
+2025-01-21 10:42:11,261 - INFO - Script started.
+2025-01-21 10:42:11,515 - INFO - Attempting to connect to the database for uploading data.
+2025-01-21 10:42:11,616 - INFO - Uploading data to table: beverly_hills
+2025-01-21 10:42:11,875 - INFO - Data uploaded successfully to beverly_hills.
+2025-01-21 10:42:11,878 - INFO - Data uploaded successfully.
+2025-01-21 10:42:11,881 - INFO - Script ended.
+2025-01-21 10:53:08,767 - INFO - Script started.
+2025-01-21 10:53:09,147 - INFO - Attempting to connect to the database for uploading data.
+2025-01-21 10:53:09,152 - INFO - Uploading data to table: beverly_hills
+2025-01-21 10:53:09,196 - INFO - Data uploaded successfully to beverly_hills.
+2025-01-21 10:53:09,201 - INFO - Data uploaded successfully.
+2025-01-21 10:53:09,205 - INFO - Script ended.
