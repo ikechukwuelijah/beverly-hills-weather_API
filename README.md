@@ -10,9 +10,15 @@ This project implements an ETL pipeline that fetches real-time weather data for 
 
 ## 🧰 Tech Stack
 
-- Python 3.8+
-- Apache Airflow 2.x
-- PostgreSQL
-- Requests, Pandas, SQLAlchemy
-- OpenWeatherMap API
-
+| Component        | Purpose                        |
+|------------------|--------------------------------|
+| Python           | Core ETL logic                 |
+| Requests         | API interaction                |
+| Pandas           | Data wrangling & cleaning      |
+| SQLAlchemy       | DB connectivity                |
+| PostgreSQL       | Data warehouse                 |
+| Apache Airflow   | DAG orchestration & scheduling |
+| Metabase       	 | Business Intelligence / Visualization |
+| Linus	Server     | Server                                |
+| Github	         |CICD                                   |
+| OpenWeatherMap API | Data source                         |
