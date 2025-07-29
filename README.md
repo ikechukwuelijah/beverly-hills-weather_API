@@ -12,13 +12,13 @@ This project implements an ETL pipeline that fetches real-time weather data for 
 
 | Component        | Purpose                        |
 |------------------|--------------------------------|
-| Python           | Core ETL logic                 |
-| Requests         | API interaction                |
-| Pandas           | Data wrangling & cleaning      |
-| SQLAlchemy       | DB connectivity                |
-| PostgreSQL       | Data warehouse                 |
-| Apache Airflow   | DAG orchestration & scheduling |
-| Metabase       	 | Business Intelligence / Visualization |
-| Linus	Server     | Server                                |
-| Github	         |CICD                                   |
-| OpenWeatherMap API | Data source                         |
+| Python           | Core ETL logic and scripting               |
+| Requests         | HTTP client for API interaction                |
+| Pandas           | Data wrangling, transformation, and cleaning   |
+| SQLAlchemy       | Database ORM and connectivity abstraction           |
+| PostgreSQL       | Data warehouse / structured data storage               |
+| Apache Airflow   |Workflow orchestration and DAG scheduling |
+| Metabase       	 | Business Intelligence (BI) & data visualization |
+| Linus	Server     | Hosting / runtime environment|
+| Github	         |Version control and CI/CD pipelines                              |
+| OpenWeatherMap API | External weather data source                    |
